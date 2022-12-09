@@ -1,0 +1,18 @@
+:root {
+    --gray-lt: #EEEEFF;
+    --navy: #233D4D;
+}
+
+#landing {
+    background-color: var(--navy);
+    color: var(--gray-lt);
+    height: 40em;
+}
+
+.icon {
+    fill: var(--gray-lt);
+}
+
+.card {
+    border-color: var(--navy);
+}
