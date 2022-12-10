@@ -14,7 +14,7 @@
   </head>
 
   <body>
-    <nav class="navbar navbar-expand-lg bg-light">
+    <nav id="navbar" class="navbar navbar-expand-lg bg-light">
       <div class="container-fluid">
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -29,6 +29,8 @@
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#">REFERENCES</a>
+              </li>
+            </ul>
           </div>
       </div>
     </nav>
@@ -37,7 +39,7 @@
 
       <div id="landing" class="jumbotron container-fluid px-5 position-relative">
         <div class="row h-75 align-items-center">
-          <div class="col-8">
+          <div class="col-8 light-border-left">
             <h1>Key Change!</h1>
             <h3>The Story of the Billboard Hot 100</h3>
           </div>
@@ -112,7 +114,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4">
+          <div class="col-lg-4 dark-border-left">
             *img*
           </div>
         </div>
@@ -125,7 +127,7 @@
           </div>
         </div>
         <div class="row g-3">
-          <div class="col-lg-4">
+          <div class="col-lg-4 dark-border-right">
             *img*
           </div>
 
@@ -160,7 +162,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4">
+          <div class="col-lg-4 dark-border-left">
             *img*
           </div>
         </div>
@@ -173,7 +175,7 @@
           </div>
         </div>
         <div class="row g-3">
-          <div class="col-lg-4">
+          <div class="col-lg-4 dark-border-right">
             *img*
           </div>
 
@@ -266,89 +268,159 @@
 
       <div class="jumbotron container-fluid mt-5 p-5">
         <h3 class="text-center mb-5">Our Changing Moods</h3>
-
-        <div class="row g-3 mb-3">
-          <div class="col-lg-6">
-            <div class="card">
-              <h5 class="card-header">decreasing duration</h5>
-              <div class="card-body">
-                <div class="row g-0">
-                  <div class="col-lg-7">
-                    lorem ipsum
+        <div class="container">
+          <div class="row g-3 mb-3">
+            <div class="col-lg-6">
+              <div class="card">
+                <h5 class="card-header">decreasing duration</h5>
+                <div class="card-body">
+                  <div class="row g-0">
+                    <div class="col-lg-7">
+                      lorem ipsum
+                    </div>
+                    <div class="col-lg-5">
+                      *graph*
+                    </div>
                   </div>
-                  <div class="col-lg-5">
-                    *graph*
+                </div>
+              </div>
+            </div>
+            
+            <div class="col-lg-6">
+              <div class="card">
+                <h5 class="card-header">danceability</h5>
+                <div class="card-body">
+                  <div class="row g-0">
+                    <div class="col-lg-7">
+                      lorem ipsum
+                    </div>
+                    <div class="col-lg-5">
+                      *graph*
+                    </div>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-          <div class="col-lg-6">
-            <div class="card">
-              <h5 class="card-header">danceability</h5>
-              <div class="card-body">
-                <div class="row g-0">
-                  <div class="col-lg-7">
-                    lorem ipsum
+
+          <div class="row g-3 mb-3">
+
+            <div class="col-lg-6">
+              <div class="card">
+                <h5 class="card-header">acousticness</h5>
+                <div class="card-body">
+                  <div class="row g-0">
+                    <div class="col-lg-7">
+                      lorem ipsum
+                    </div>
+                    <div class="col-lg-5">
+                      *graph*
+                    </div>
                   </div>
-                  <div class="col-lg-5">
-                    *graph*
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <div class="card">
+                <h5 class="card-header">key</h5>
+                <div class="card-body">
+                  <div class="row g-0">
+                    <div class="col-lg-7">
+                      lorem ipsum
+                    </div>
+                    <div class="col-lg-5">
+                      *graph*
+                    </div>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-        </div>
 
-        <div class="row g-3 mb-3">
-          <div class="col-lg-6">
-            <div class="card">
-              <h5 class="card-header">acousticness</h5>
-              <div class="card-body">
-                <div class="row g-0">
-                  <div class="col-lg-7">
-                    lorem ipsum
-                  </div>
-                  <div class="col-lg-5">
-                    *graph*
+          <div class="row g-3">
+            <div class="col-lg-6">
+              <div class="card">
+                <h5 class="card-header">explicit content</h5>
+                <div class="card-body">
+                  <div class="row g-0">
+                    <div class="col-lg-7">
+                      lorem ipsum
+                    </div>
+                    <div class="col-lg-5">
+                      *graph*
+                    </div>
                   </div>
                 </div>
               </div>
             </div>
-          </div>
-          <div class="col-lg-6">
-            <div class="card">
-              <h5 class="card-header">key</h5>
-              <div class="card-body">
-                lorem ipsum
-              </div>
-            </div>
-          </div>
-        </div>
 
-        <div class="row g-3">
-          <div class="col-lg-6">
-            <div class="card">
-              <h5 class="card-header">explicit content</h5>
-              <div class="card-body">
-                lorem ipsum
+            <div class="col-lg-6">
+              <div class="card">
+                <h5 class="card-header">valence</h5>
+                <div class="card-body">
+                  <div class="row g-0">
+                    <div class="col-lg-7">
+                      lorem ipsum
+                    </div>
+                    <div class="col-lg-5">
+                      *graph*
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
-          </div>
-          <div class="col-lg-6">
-            <div class="card">
-              <h5 class="card-header">valence</h5>
-              <div class="card-body">
-                lorem ipsum
-              </div>
-            </div>
-          </div>
-        </div>
 
+          </div>
+
+        </div>
       </div>
 
-      <hr class="my-5">
 
+      <div class="container mt-5">
+        <h2 class="text-center">Diversity and Collaboration</h2>
+        <h4 class="text-center">(will be included if extra time and space for data analysis)</h4>
+      </div>
+
+      <div class="jumbotron container-fluid mt-5 p-5">
+        <div class="row g-3">
+          <div class="col-lg-4">
+            *imgs*
+          </div>
+          <div class="light-border-left col-lg-4">
+            <h2>AHA</h2>
+          </div>
+          <div class="col-lg-4">
+            *imgs*
+          </div>
+        </div>
+      </div>
+
+      <div class="container px-5 pt-5">
+        <h2 class="text-center mb-5">Thinking About Music</h2>
+        <div class="row g-3">
+          <div class="col-lg-6">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dignissim leo sed vulputate condimentum. Donec dictum consequat convallis. Suspendisse sit amet ornare arcu, at efficitur neque. Cras scelerisque dictum sem. Quisque vestibulum urna purus, maximus condimentum augue commodo quis. Suspendisse bibendum elit metus, sit amet venenatis turpis porttitor et. Ut lacinia nunc id mollis sagittis. Aenean pulvinar orci magna, eget varius lectus fermentum at.
+          </div>
+          <div class="col-lg-6">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dignissim leo sed vulputate condimentum. Donec dictum consequat convallis. Suspendisse sit amet ornare arcu, at efficitur neque. Cras scelerisque dictum sem. Quisque vestibulum urna purus, maximus condimentum augue commodo quis. Suspendisse bibendum elit metus, sit amet venenatis turpis porttitor et. Ut lacinia nunc id mollis sagittis. Aenean pulvinar orci magna, eget varius lectus fermentum at.
+          </div>
+        </div>
+      </div>
+
+      <div class="mt-5 navbar bg-light">
+        <div class="container-fluid">
+          <ul class="navbar-nav mx-auto list-group-horizontal">
+            <li class="nav-item mx-3">
+              <a class="nav-link" href="#navbar">BACK TO TOP</a>
+            </li>
+            <li class="nav-item mx-3">
+              <a class="nav-link" href="#">ABOUT THE DATA</a>
+            </li>
+            <li class="nav-item mx-3">
+              <a class="nav-link" href="#">REFERENCES</a>
+            </li>
+          </ul>
+        </div>
       </div>
 
     </main>

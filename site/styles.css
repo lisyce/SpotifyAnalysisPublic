@@ -29,3 +29,15 @@
 .jumbotron .card-header {
     border-color: white;
 }
+
+.light-border-left {
+    border-left: 3px solid white;
+}
+
+.dark-border-left {
+    border-left: 3px solid var(--navy);
+}
+
+.dark-border-right {
+    border-right: 3px solid var(--navy);
+}
