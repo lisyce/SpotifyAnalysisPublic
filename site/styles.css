@@ -4,15 +4,28 @@
 }
 
 #landing {
-    background-color: var(--navy);
-    color: var(--gray-lt);
     height: 40em;
 }
 
+.jumbotron {
+    background-color: var(--navy);
+    color: white;
+}
+
 .icon {
-    fill: var(--gray-lt);
+    fill: white;
 }
 
 .card {
     border-color: var(--navy);
+}
+
+.jumbotron .card {
+    border-color: white;
+    color: white;
+    background-color: var(--navy);
+}
+
+.jumbotron .card-header {
+    border-color: white;
 }
