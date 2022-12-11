@@ -37,8 +37,7 @@ decade,track,artist(s),race/ethnicity,gender,collab?
 2000s,Get It Shawty,Lloyd,mixed,male,FALSE
 2000s,Like A Stone,Audioslave,mixed,male,FALSE
 2000s,I Don't Wanna Know,Mario Winans Featuring Enya & P. Diddy,mixed,mixed,TRUE
-2000s,"When I'm Gone
-",3 Doors Down,white,male,FALSE
+2000s,When I'm Gone,3 Doors Down,white,male,FALSE
 2000s,Family Portrait,P!nk,white,female,FALSE
 1990s,How Much Is Enough,The Fixx,white,male,FALSE
 1990s,When A Woman's Fed Up,R. Kelly,black,male,FALSE
@@ -80,7 +79,7 @@ decade,track,artist(s),race/ethnicity,gender,collab?
 1980s,Love Never Fails,Greg Kihn Band,white,male,FALSE
 1980s,(There's) No Gettin' Over Me,Ronnie Milsap,white,male,FALSE
 1980s,I Don't Wanna Go On With You Like That,Elton John,white,male,FALSE
-1970s,Dependin' On You,The Doobie Brothers,whtie,male,FALSE
+1970s,Dependin' On You,The Doobie Brothers,white,male,FALSE
 1970s,That's How Love Goes,Jermaine Jackson,black,male,FALSE
 1970s,Rhumba Girl,Nicolette Larson,white,female,FALSE
 1970s,Southern Nights,Glen Campbell,white,male,FALSE
@@ -92,7 +91,7 @@ decade,track,artist(s),race/ethnicity,gender,collab?
 1970s,Try (Try To Fall In Love),Cooker,white,male,FALSE
 1970s,Ding Dong; Ding Dong,George Harrison,white,male,FALSE
 1970s,I Love The Nightlife (Disco 'round),Alicia Bridges,white,male,FALSE
-1970s,,,,,
+1970s,Train Of Thought,Cher,mixed,female,FALSE
 1970s,Call On Me,Chicago,white,male,FALSE
 1970s,Wake Up Everybody (Part 1),Harold Melvin And The Blue Notes,black,male,FALSE
 1970s,I Feel Love,Donna Summer,black,female,FALSE
