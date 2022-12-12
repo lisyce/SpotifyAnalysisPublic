@@ -5,12 +5,12 @@ decade,track,artist(s),race/ethnicity,gender,collab?
 2010s,I Like The Sound Of That,Rascal Flatts,white,male,FALSE
 2010s,Dear Future Husband,Meghan Trainor,white,female,FALSE
 2010s,Problem,Ariana Grande Featuring Iggy Azalea,white,female,TRUE
-2010s,Impossible,Shontelle,caribbean islander,female,FALSE
+2010s,Impossible,Shontelle,mixed,female,FALSE
 2010s,Bad At Love,Halsey,white,non-binary,FALSE
 2010s,Hey Daddy (Daddy's Home),Usher Featuring Plies,black,male,TRUE
 2010s,I Got You,Bebe Rexha,white,female,FALSE
 2010s,Drunk On You,Luke Bryan,white,male,FALSE
-2010s,Changes,XXXTENTACION,caribbean islander,male,FALSE
+2010s,Changes,XXXTENTACION,black,male,FALSE
 2010s,Beautiful Crazy,Luke Combs,white,male,FALSE
 2010s,Praise The Lord (Da Shine),A$AP Rocky Featuring Skepta,mixed,male,TRUE
 2010s,Fast,Luke Bryan,white,male,FALSE
@@ -19,6 +19,16 @@ decade,track,artist(s),race/ethnicity,gender,collab?
 2010s,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone & Swae Lee,mixed,male,TRUE
 2010s,Let It Rain,David Nail Featuring Sarah Buxton,white,mixed,TRUE
 2010s,You Was Right,Lil Uzi Vert,black,non-binary,FALSE
+2010s,Trumpets,Jason Derulo,black,male,FALSE
+2010s,Hustle Hard,Ace Hood,black,male,FALSE
+2010s,Remind Me,Brad Paisley Duet With Carrie Underwood,white,mixed,TRUE
+2010s,Beautiful Now,Zedd Featuring Jon Bellion,white,male,TRUE
+2010s,2 Reasons,Trey Songz Featuring T.I.,black,male,TRUE
+2010s,Goodbyes,Post Malone Featuring Young Thug,mixed,male,TRUE
+2010s,Better,Khalid,black,male,FALSE
+2010s,Shake Senora,Pitbull Featuring T-Pain & Sean Paul,mixed,male,TRUE
+2010s,Better With The Lights Off,New Boyz Feat. Chris Brown,black,male,TRUE
+2010s,The Bones,Maren Morris,white,female,FALSE
 2000s,Poker Face,Lady Gaga,white,female,FALSE
 2000s,Jump Then Fall,Taylor Swift,white,female,FALSE
 2000s,I'm On A Boat,The Lonely Island Featuring T-Pain,mixed,male,TRUE
@@ -39,13 +49,23 @@ decade,track,artist(s),race/ethnicity,gender,collab?
 2000s,I Don't Wanna Know,Mario Winans Featuring Enya & P. Diddy,mixed,mixed,TRUE
 2000s,When I'm Gone,3 Doors Down,white,male,FALSE
 2000s,Family Portrait,P!nk,white,female,FALSE
+2000s,You Should've Told Me,Kelly Price,black,female,FALSE
+2000s,You Sang To Me,Marc Anthony,hispanic or latino,male,FALSE
+2000s,Incomplete,Backstreet Boys,mixed,male,FALSE
+2000s,Lose Control,Missy Elliott Featuring Ciara & Fat Man Scoop,black,mixed,TRUE
+2000s,A Little Less Conversation,Elvis Presley vs JXL,white,male,TRUE
+2000s,Poppin' My Collar,Three 6 Mafia,black,male,FALSE
+2000s,Drift Away,Uncle Kracker Featuring Dobie Gray,mixed,male,TRUE
+2000s,Wadsyaname,Nelly,black,male,FALSE
+2000s,Tell Me Baby,Red Hot Chili Peppers,mixed,male,FALSE
+2000s,The Space Between,Dave Matthews Band,mixed,male,FALSE
 1990s,How Much Is Enough,The Fixx,white,male,FALSE
 1990s,When A Woman's Fed Up,R. Kelly,black,male,FALSE
 1990s,Who Needs Pictures,Brad Paisley,white,male,FALSE
 1990s,Already Missing You,"Gerald Levert & Eddie Levert, Sr.",black,male,TRUE
 1990s,Do I Have To Say The Words?,Bryan Adams,white,male,FALSE
 1990s,All Night Long,Faith Evans Featuring Puff Daddy,mixed,mixed,TRUE
-1990s,Flex,Mad Cobra,caribbean islander,male,FALSE
+1990s,Flex,Mad Cobra,black,male,FALSE
 1990s,She's In Love,Mark Wills,white,male,FALSE
 1990s,Finally,CeCe Peniston,black,female,FALSE
 1990s,Giving You The Benefit,Pebbles,black,male,FALSE
@@ -59,6 +79,16 @@ decade,track,artist(s),race/ethnicity,gender,collab?
 1990s,Human Touch/Better Days,Bruce Springsteen,white,male,FALSE
 1990s,Crazy Little Thing Called Love,Dwight Yoakam,white,male,FALSE
 1990s,On The Way Up,Elisa Fiorillo,white,female,FALSE
+1990s,Around The World,Daft Punk,white,male,FALSE
+1990s,I Touch Myself,Divinyls,white,mixed,FALSE
+1990s,Hypnotize,The Notorious B.I.G.,black,male,FALSE
+1990s,Save Your Love,Bad Boys Blue,mixed,mixed,FALSE
+1990s,Gotham City,R. Kelly,black,male,FALSE
+1990s,Lucky Love,Ace Of Base,white,mixed,FALSE
+1990s,Whose Bed Have Your Boots Been Under?,Shania Twain,white,female,FALSE
+1990s,It's On,Naughty By Nature,black,male,FALSE
+1990s,Step It Up,Stereo MC's,mixed,mixed,FALSE
+1990s,Heavy,Collective Soul,white,male,FALSE
 1980s,Skin Deep,Cher,mixed,female,FALSE
 1980s,When She Dances,Joey Scarbury,white,male,FALSE
 1980s,Saved By Zero,The Fixx,white,male,FALSE
@@ -73,12 +103,22 @@ decade,track,artist(s),race/ethnicity,gender,collab?
 1980s,I Want You,Shana,white,female,FALSE
 1980s,Super Freak (Part I),Rick James,mixed,male,FALSE
 1980s,Miami Vice Theme,Jan Hammer,white,male,FALSE
-1980s,In My Eyes,Stevie B,caribbean islander,male,FALSE
+1980s,In My Eyes,Stevie B,hispanic or latino,male,FALSE
 1980s,Hooked On Big Bands,The Frank Barber Orch.,mixed,male,FALSE
 1980s,Should've Never Let You Go,Neil Sedaka & Dara Sedaka,white,mixed,TRUE
 1980s,Love Never Fails,Greg Kihn Band,white,male,FALSE
 1980s,(There's) No Gettin' Over Me,Ronnie Milsap,white,male,FALSE
 1980s,I Don't Wanna Go On With You Like That,Elton John,white,male,FALSE
+1980s,Hungry Heart,Bruce Springsteen,white,male,FALSE
+1980s,High On Emotion,Chris de Burgh,white,male,FALSE
+1980s,"Promises, Promises",Naked Eyes,white,male,FALSE
+1980s,My Girl,Suave,black,male,FALSE
+1980s,The Authority Song,John Cougar Mellencamp,white,male,FALSE
+1980s,I Know What I Like,Huey Lewis & The News,white,male,FALSE
+1980s,I Need Your Loving,The Human League,white,mixed,FALSE
+1980s,Meeting In The Ladies Room,Klymaxx,black,female,FALSE
+1980s,When The Rain Begins To Fall,Jermaine Jackson & Pia Zadora,mixed,mixed,TRUE
+1980s,Spies Like Us,Paul McCartney,white,male,FALSE
 1970s,Dependin' On You,The Doobie Brothers,white,male,FALSE
 1970s,That's How Love Goes,Jermaine Jackson,black,male,FALSE
 1970s,Rhumba Girl,Nicolette Larson,white,female,FALSE
@@ -99,3 +139,13 @@ decade,track,artist(s),race/ethnicity,gender,collab?
 1970s,School's Out,Alice Cooper,white,male,FALSE
 1970s,Do You Feel Like We Do,Peter Frampton,white,male,FALSE
 1970s,Fallin' In Love,"Hamilton, Joe Frank & Reynolds",white,male,TRUE
+1970s,"Sweet, Sweet Smile",Carpenters,white,mixed,FALSE
+1970s,Rhapsody In Blue,Deodato,hispanic or latino,male,FALSE
+1970s,She Came In Through The Bathroom Window,Joe Cocker,white,male,FALSE
+1970s,Mr. Melody,Natalie Cole,black,female,FALSE
+1970s,Can't Hide Love,"Earth, Wind & Fire",black,male,FALSE
+1970s,I'm Gonna Let My Heart Do The Walking,The Supremes,black,female,FALSE
+1970s,"Hey, Little Girl",Foster Sylvers,black,male,FALSE
+1970s,I'm Comin' Home,Dave Edmunds,white,male,FALSE
+1970s,Fancy Dancer,Frankie Valli,white,male,FALSE
+1970s,Our Love,Natalie Cole,black,female,FALSE
