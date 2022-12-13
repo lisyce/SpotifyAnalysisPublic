@@ -46,7 +46,7 @@
             </div>
   
             <div class="col-4">
-              *imgs*
+              <img class="position-absolute " src="https://i.scdn.co/image/ab67616100005174cdce7620dc940db079bf4952" alt="Ariana Grande">
             </div>
           </div>
           <div class="row position-absolute start-50 bottom-0 mb-3 translate-middle-x text-center">
@@ -159,43 +159,10 @@
       </div>
 
       <div class="container mt-5">
-        <h3>Typicality</h3>
-        <div class="row g-3">
-
-          <div class="col-lg-4">
-            <p>
-              The typicality of a song, as determined by researchers Noh Askin and Michael Mauskapf (2017),
-              is how similar a song sounds to its peers released around the same time. They note that
-              other popular tracks released by other artists "have a significant impact on [a] song's success" (p. 933).
-              In other words, music that makes the Hot 100 tends to resemble the features of popular music releasing at the
-              same time, but it has something special that sets it apart and makes it memorable.
-            </p>
-          </div>
-          <div class="col-lg-4">
-            <div class="row">
-              <figure>
-                <iframe style="border-radius:12px" alt="Spotify player for Olivia Rodrigo's 'good 4 u' and Paramore's 'Misery Business'" src="https://open.spotify.com/embed/playlist/0X3QECJ37NSyV1RIzlGG8a?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-                <figcaption class="m-1">Check out Olivia Rodrigo's "good 4 u" and Paramore's "Misery Business", both of which spent over 35 weeks on the Hot 100. "good 4 u" was insanely popular; notice how it shares characteristics with "Misery Business", which came before it.</figcaption>
-              </figure>
-            </div>
-          </div>
-
-          <div class="col-lg-4 dark-border-left">
-            *img*
-          </div>
-        </div>
-      </div>
-
-      <div class="container mt-5">
         <div class="row justify-content-center">
-          <div class="col-4">
-            <h3>Lyrics</h3>
-          </div>
+          <h3>Lyrics</h3>
         </div>
         <div class="row g-3">
-          <div class="col-lg-4 dark-border-right">
-            *img*
-          </div>
 
           <div class="col-lg-4">
             Popular music has always been predominately about love. It's a quintessential experience for media to portray, and music is no exception.
@@ -211,6 +178,10 @@
                 <figcaption class="m-1">Check out John Legend's "All of Me" for a classic example of a love ballad; it spend 36 weeks on the Hot 100.</figcaption>
               </figure>
             </div>
+          </div>
+
+          <div class="col-lg-4 dark-border-left">
+            *img*
           </div>
 
 
@@ -230,6 +201,8 @@
               partying, lusting, loving, living, and losing" (para. 12). American popular culture is becoming more accepting
               of expressing more emotions in music, particularly negative ones.
               There is a greater freedom of expression in recent music, generating more opportunities for creativity.
+              But, love is just one example of a greater variety of moods; popular music is seeing an expansion
+              of expression across all kinds of topics.
             </p>
           </div>
 
@@ -297,25 +270,7 @@
         <div class="container">
 
           <div class="row g-3 mb-3">
-            <div class="col-lg-6">
-              <div class="card">
-                <h5 class="card-header">Decreasing Duration</h5>
-                <div class="card-body">
-
-                  <div class="card-text mb-3">
-                    Duration of tracks on the Hot 100 has been on a steady decline since the turn of the century, seeing a decrease 
-                    of about a minute in track duration. This is a substantial amount of time, as almost every track in the Hot 100's history
-                    tends to be under 5 minutes of duration. Nowadays, tracks are hovering around the 3 minute range. While tracks 
-                    tend to be shorter, it allows for the ability to listen to more music, and different varieties of music since
-                    one track isn't quite so long. Shorter durations may leave some artistic opportunities on the table, but they
-                    allow for the audience to have the time to listen to a greater variety of music.
-                  </div>
-
-                  <img class="img-fluid" src="img/spotify-data/duration.png" alt="graph of average weekly duration of Hot 100 tracks over time">
-                </div>
-              </div>
-            </div>
-
+            
             <div class="col-lg-6">
               <div class="card">
                 <h5 class="card-header">Key</h5>
@@ -331,6 +286,24 @@
                   </div>
 
                   <img class="img-fluid" src="img/spotify-data/major key.png" alt="graph of counts of Hot 100 tracks featuring a major key over time">
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-6">
+              <div class="card">
+                <h5 class="card-header">Speechiness</h5>
+                <div class="card-body">
+
+                  <div class="card-text mb-3">
+                    The Spotify Web API's speechiness data ranges from 0 to 1, with tracks above 0.66 labeled as entirely spoken (such as podcasts),
+                    tracks between 0.33 and 0.66 as a combination of music and speech (such as rap music), and values below 0.33 are most likely
+                    just music (Spotify). The average speechiness of the weekly Hot 100 has made a considerable increase over the years, 
+                    largely due to the rise of genres like rap. How people express themselves through music has grown more varied over time;
+                    spoken words contribute to a different feel in a track, and by extension on the Hot 100.
+                  </div>
+
+                  <img class="img-fluid" src="img/spotify-data/speechiness.png" alt="graph of average weekly duration of Hot 100 tracks over time">
                 </div>
               </div>
             </div>
