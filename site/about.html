@@ -37,7 +37,30 @@
 
     <main>
       <div class="container my-5">
-        <h3>About the Data</h3>
+        <h3 class="mb-3">About the Data</h3>
+        <h4 class="mb-4 fs-6"><a class="link-secondary" href="https://github.com/lisyce/SpotifyAnalysisPublic" target="_blank">(GitHub) Get the Data</a></h4>
+
+        <h5>Spotify Web API Data</h5>
+        <p>
+          For track audio features such as duration, valence, etc. I utilized the <a target="_blank" href="https://developer.spotify.com/documentation/web-api/">Spotify Web API</a>.
+          Paired with Burati's compilation of the full Hot 100 history, I collected the audio features data for every track and added it to the information present in Burati's data,
+          including some features not in this project such as "danceability" and "acousticness". It is important to take this algorithmically-generated
+          data with a grain of salt when it comes to determining the values for these features. For example, 
+          Tchaikovsky's "Dance of the Sugarplum Fairy" has a danceability of only 0.323, yet it is a famous ballet piece.
+          The algorithm may have narrow interpretations of some characteristics, and checking the documentation is important for interpreting the data.
+          The data is available in the GitHub link above.            
+        </p>
+
+        <hr class="my-3">
+
+        <h5>Race, Gender, and Collaboration Data</h5>
+        <p>
+          For each of the five decades in my dataset, I randomly selected 30 tracks. If there was too much uncertainty
+          about an artist's identified gender or race, another track was randomly selected in order to maintain as much
+          accuracy as possible. If there are any discrepancies in the dataset, I am happy to 
+          correct that in this project if you submit an issue on the GitHub page linked above.
+        </p>
+
       </div>
       
     </main>
