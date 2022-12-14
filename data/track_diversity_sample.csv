@@ -1,70 +1,70 @@
 decade,track,artist(s),race/ethnicity,gender,collab?
-2010s,Suit & Tie,Justin Timberlake Featuring JAY Z,mixed,male,TRUE
+2010s,Suit & Tie,Justin Timberlake Featuring JAY Z,mixed-collab,male,TRUE
 2010s,Don't Go Breaking My Heart,Backstreet Boys,white,male,FALSE
 2010s,Some Nights,fun.,white,male,FALSE
 2010s,I Like The Sound Of That,Rascal Flatts,white,male,FALSE
 2010s,Dear Future Husband,Meghan Trainor,white,female,FALSE
 2010s,Problem,Ariana Grande Featuring Iggy Azalea,white,female,TRUE
-2010s,Impossible,Shontelle,mixed,female,FALSE
+2010s,Impossible,Shontelle,mixed-solo,female,FALSE
 2010s,Bad At Love,Halsey,white,non-binary,FALSE
 2010s,Hey Daddy (Daddy's Home),Usher Featuring Plies,black,male,TRUE
 2010s,I Got You,Bebe Rexha,white,female,FALSE
 2010s,Drunk On You,Luke Bryan,white,male,FALSE
 2010s,Changes,XXXTENTACION,black,male,FALSE
 2010s,Beautiful Crazy,Luke Combs,white,male,FALSE
-2010s,Praise The Lord (Da Shine),A$AP Rocky Featuring Skepta,mixed,male,TRUE
+2010s,Praise The Lord (Da Shine),A$AP Rocky Featuring Skepta,mixed-collab,male,TRUE
 2010s,Fast,Luke Bryan,white,male,FALSE
 2010s,Party Monster,The Weeknd,black,male,FALSE
 2010s,I Don't Care,Ed Sheeran & Justin Bieber,white,male,TRUE
-2010s,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone & Swae Lee,mixed,male,TRUE
-2010s,Let It Rain,David Nail Featuring Sarah Buxton,white,mixed,TRUE
+2010s,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone & Swae Lee,mixed-collab,male,TRUE
+2010s,Let It Rain,David Nail Featuring Sarah Buxton,white,mixed-collab,TRUE
 2010s,You Was Right,Lil Uzi Vert,black,non-binary,FALSE
 2010s,Trumpets,Jason Derulo,black,male,FALSE
 2010s,Hustle Hard,Ace Hood,black,male,FALSE
 2010s,Remind Me,Brad Paisley Duet With Carrie Underwood,white,mixed,TRUE
 2010s,Beautiful Now,Zedd Featuring Jon Bellion,white,male,TRUE
 2010s,2 Reasons,Trey Songz Featuring T.I.,black,male,TRUE
-2010s,Goodbyes,Post Malone Featuring Young Thug,mixed,male,TRUE
+2010s,Goodbyes,Post Malone Featuring Young Thug,mixed-collab,male,TRUE
 2010s,Better,Khalid,black,male,FALSE
-2010s,Shake Senora,Pitbull Featuring T-Pain & Sean Paul,mixed,male,TRUE
+2010s,Shake Senora,Pitbull Featuring T-Pain & Sean Paul,mixed-collab,male,TRUE
 2010s,Better With The Lights Off,New Boyz Feat. Chris Brown,black,male,TRUE
 2010s,The Bones,Maren Morris,white,female,FALSE
 2000s,Poker Face,Lady Gaga,white,female,FALSE
 2000s,Jump Then Fall,Taylor Swift,white,female,FALSE
-2000s,I'm On A Boat,The Lonely Island Featuring T-Pain,mixed,male,TRUE
-2000s,Desert Rose,Sting Featuring Cheb Mami,mixed,male,TRUE
-2000s,Until The End Of Time,Justin Timberlake Duet With Beyonce,mixed,mixed,TRUE
+2000s,I'm On A Boat,The Lonely Island Featuring T-Pain,mixed-collab,male,TRUE
+2000s,Desert Rose,Sting Featuring Cheb Mami,mixed-collab,male,TRUE
+2000s,Until The End Of Time,Justin Timberlake Duet With Beyonce,mixed-collab,mixed,TRUE
 2000s,That's That,Snoop Dogg Featuring R. Kelly,black,male,TRUE
 2000s,Sorry 2004,Ruben Studdard,black,male,FALSE
 2000s,Gives You Hell,The All-American Rejects,white,male,FALSE
-2000s,Southside,Lloyd Featuring Ashanti,mixed,mixed,TRUE
-2000s,Say Hey (I Love You),Michael Franti & Spearhead Featuring Cherine Anderson,mixed,mixed,TRUE
+2000s,Southside,Lloyd Featuring Ashanti,mixed-collab,mixed,TRUE
+2000s,Say Hey (I Love You),Michael Franti & Spearhead Featuring Cherine Anderson,mixed-collab,mixed,TRUE
 2000s,Hood Figga,Gorilla Zoe,black,male,FALSE
 2000s,I Want You,Janet Jackson,black,female,FALSE
 2000s,Going On,Gnarls Barkley,black,male,FALSE
 2000s,I Just Wanna Love U (Give It 2 Me),JAY-Z,black,male,FALSE
 2000s,One More Day,Diamond Rio,white,male,FALSE
-2000s,Get It Shawty,Lloyd,mixed,male,FALSE
-2000s,Like A Stone,Audioslave,mixed,male,FALSE
-2000s,I Don't Wanna Know,Mario Winans Featuring Enya & P. Diddy,mixed,mixed,TRUE
+2000s,Get It Shawty,Lloyd,mixed-solo,male,FALSE
+2000s,Like A Stone,Audioslave,mixed-solo,male,FALSE
+2000s,I Don't Wanna Know,Mario Winans Featuring Enya & P. Diddy,mixed-collab,mixed,TRUE
 2000s,When I'm Gone,3 Doors Down,white,male,FALSE
 2000s,Family Portrait,P!nk,white,female,FALSE
 2000s,You Should've Told Me,Kelly Price,black,female,FALSE
 2000s,You Sang To Me,Marc Anthony,hispanic or latino,male,FALSE
-2000s,Incomplete,Backstreet Boys,mixed,male,FALSE
+2000s,Incomplete,Backstreet Boys,mixed-collab,male,FALSE
 2000s,Lose Control,Missy Elliott Featuring Ciara & Fat Man Scoop,black,mixed,TRUE
 2000s,A Little Less Conversation,Elvis Presley vs JXL,white,male,TRUE
 2000s,Poppin' My Collar,Three 6 Mafia,black,male,FALSE
-2000s,Drift Away,Uncle Kracker Featuring Dobie Gray,mixed,male,TRUE
+2000s,Drift Away,Uncle Kracker Featuring Dobie Gray,mixed-collab,male,TRUE
 2000s,Wadsyaname,Nelly,black,male,FALSE
-2000s,Tell Me Baby,Red Hot Chili Peppers,mixed,male,FALSE
-2000s,The Space Between,Dave Matthews Band,mixed,male,FALSE
+2000s,Tell Me Baby,Red Hot Chili Peppers,mixed-collab,male,FALSE
+2000s,The Space Between,Dave Matthews Band,mixed-collab,male,FALSE
 1990s,How Much Is Enough,The Fixx,white,male,FALSE
 1990s,When A Woman's Fed Up,R. Kelly,black,male,FALSE
 1990s,Who Needs Pictures,Brad Paisley,white,male,FALSE
 1990s,Already Missing You,"Gerald Levert & Eddie Levert, Sr.",black,male,TRUE
 1990s,Do I Have To Say The Words?,Bryan Adams,white,male,FALSE
-1990s,All Night Long,Faith Evans Featuring Puff Daddy,mixed,mixed,TRUE
+1990s,All Night Long,Faith Evans Featuring Puff Daddy,mixed-collab,mixed,TRUE
 1990s,Flex,Mad Cobra,black,male,FALSE
 1990s,She's In Love,Mark Wills,white,male,FALSE
 1990s,Finally,CeCe Peniston,black,female,FALSE
@@ -74,7 +74,7 @@ decade,track,artist(s),race/ethnicity,gender,collab?
 1990s,Truly Madly Deeply,Savage Garden,white,male,FALSE
 1990s,Pimp Of The Year,Dru Down,black,male,FALSE
 1990s,Bed Of Roses,Bon Jovi,white,male,FALSE
-1990s,The Way You Do The Things You Do,UB40,mixed,male,FALSE
+1990s,The Way You Do The Things You Do,UB40,mixed-solo,male,FALSE
 1990s,Lucky One,Amy Grant,white,female,FALSE
 1990s,Human Touch/Better Days,Bruce Springsteen,white,male,FALSE
 1990s,Crazy Little Thing Called Love,Dwight Yoakam,white,male,FALSE
@@ -82,14 +82,14 @@ decade,track,artist(s),race/ethnicity,gender,collab?
 1990s,Around The World,Daft Punk,white,male,FALSE
 1990s,I Touch Myself,Divinyls,white,mixed,FALSE
 1990s,Hypnotize,The Notorious B.I.G.,black,male,FALSE
-1990s,Save Your Love,Bad Boys Blue,mixed,mixed,FALSE
+1990s,Save Your Love,Bad Boys Blue,mixed-collab,mixed,FALSE
 1990s,Gotham City,R. Kelly,black,male,FALSE
 1990s,Lucky Love,Ace Of Base,white,mixed,FALSE
 1990s,Whose Bed Have Your Boots Been Under?,Shania Twain,white,female,FALSE
 1990s,It's On,Naughty By Nature,black,male,FALSE
-1990s,Step It Up,Stereo MC's,mixed,mixed,FALSE
+1990s,Step It Up,Stereo MC's,mixed-collab,mixed,FALSE
 1990s,Heavy,Collective Soul,white,male,FALSE
-1980s,Skin Deep,Cher,mixed,female,FALSE
+1980s,Skin Deep,Cher,mixed-solo,female,FALSE
 1980s,When She Dances,Joey Scarbury,white,male,FALSE
 1980s,Saved By Zero,The Fixx,white,male,FALSE
 1980s,Do I Do,Stevie Wonder,black,male,FALSE
@@ -97,14 +97,14 @@ decade,track,artist(s),race/ethnicity,gender,collab?
 1980s,On The Wings Of Love,Jeffrey Osborne,black,male,FALSE
 1980s,California Dreamin',The Beach Boys,white,male,FALSE
 1980s,Armageddon It,Def Leppard,white,male,FALSE
-1980s,Will The Wolf Survive,Los Lobos,mixed,male,FALSE
-1980s,Put A Little Love In Your Heart,Annie Lennox & Al Green,mixed,mixed,TRUE
+1980s,Will The Wolf Survive,Los Lobos,mixed-collab,male,FALSE
+1980s,Put A Little Love In Your Heart,Annie Lennox & Al Green,mixed-collab,mixed,TRUE
 1980s,Theme From The Dukes Of Hazzard (Good Ol' Boys),Waylon,white,male,FALSE
 1980s,I Want You,Shana,white,female,FALSE
-1980s,Super Freak (Part I),Rick James,mixed,male,FALSE
+1980s,Super Freak (Part I),Rick James,mixed-solo,male,FALSE
 1980s,Miami Vice Theme,Jan Hammer,white,male,FALSE
 1980s,In My Eyes,Stevie B,hispanic or latino,male,FALSE
-1980s,Hooked On Big Bands,The Frank Barber Orch.,mixed,male,FALSE
+1980s,Hooked On Big Bands,The Frank Barber Orch.,mixed-collab,male,FALSE
 1980s,Should've Never Let You Go,Neil Sedaka & Dara Sedaka,white,mixed,TRUE
 1980s,Love Never Fails,Greg Kihn Band,white,male,FALSE
 1980s,(There's) No Gettin' Over Me,Ronnie Milsap,white,male,FALSE
@@ -117,7 +117,7 @@ decade,track,artist(s),race/ethnicity,gender,collab?
 1980s,I Know What I Like,Huey Lewis & The News,white,male,FALSE
 1980s,I Need Your Loving,The Human League,white,mixed,FALSE
 1980s,Meeting In The Ladies Room,Klymaxx,black,female,FALSE
-1980s,When The Rain Begins To Fall,Jermaine Jackson & Pia Zadora,mixed,mixed,TRUE
+1980s,When The Rain Begins To Fall,Jermaine Jackson & Pia Zadora,mixed-collab,mixed,TRUE
 1980s,Spies Like Us,Paul McCartney,white,male,FALSE
 1970s,Dependin' On You,The Doobie Brothers,white,male,FALSE
 1970s,That's How Love Goes,Jermaine Jackson,black,male,FALSE
@@ -126,12 +126,12 @@ decade,track,artist(s),race/ethnicity,gender,collab?
 1970s,Send In The Clowns,Judy Collins,white,female,FALSE
 1970s,Tonight's The Night (Gonna Be Alright),Rod Stewart,white,male,FALSE
 1970s,Love Grows (Where My Rosemary Goes),Edison Lighthouse,white,mixed,FALSE
-1970s,Make Me The Woman That You Go Home To,Gladys Knight And The Pips,mixed,mixed,FALSE
+1970s,Make Me The Woman That You Go Home To,Gladys Knight And The Pips,mixed-collab,mixed,FALSE
 1970s,Sunshine On My Shoulders,John Denver,white,male,FALSE
 1970s,Try (Try To Fall In Love),Cooker,white,male,FALSE
 1970s,Ding Dong; Ding Dong,George Harrison,white,male,FALSE
 1970s,I Love The Nightlife (Disco 'round),Alicia Bridges,white,male,FALSE
-1970s,Train Of Thought,Cher,mixed,female,FALSE
+1970s,Train Of Thought,Cher,mixed-solo,female,FALSE
 1970s,Call On Me,Chicago,white,male,FALSE
 1970s,Wake Up Everybody (Part 1),Harold Melvin And The Blue Notes,black,male,FALSE
 1970s,I Feel Love,Donna Summer,black,female,FALSE
